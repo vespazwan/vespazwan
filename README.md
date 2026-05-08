@@ -29,6 +29,11 @@
 
 ---
 
+## 🚀 Currently
+- Building internal systems with Laravel + Oracle
+- Improving legacy modules & performance tuning
+``
+
 ## ⭐ Featured Projects
 Here are a few repositories you can check out:
 
